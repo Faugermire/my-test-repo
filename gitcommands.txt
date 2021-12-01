@@ -6,3 +6,9 @@ git push
     1. how you push your local committed changes to the remote branch.
 git commit 
     1. how you apply changes to your local branch.
+git add
+    1. how you add changes to your local branch.
+
+~~~
+
+git checkout -b "name of new branch"
