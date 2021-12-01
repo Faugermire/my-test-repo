@@ -1,0 +1,8 @@
+git status
+    1. Easy way to see what changes you have locally.
+git pull
+    1. how you fetch changes from the remote branch and apply them to your current local branch.
+git push
+    1. how you push your local committed changes to the remote branch.
+git commit 
+    1. how you apply changes to your local branch.
